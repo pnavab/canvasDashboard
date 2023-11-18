@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/home/pablo/projects/duoBypass')
+sys.path.append('/home/pablo/projects/canvasDashboard')
 import requests
 import json
 import util.constants as constants
